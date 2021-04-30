@@ -1,0 +1,29 @@
+:Title {
+    font: normal normal 300 40px/49px Montserrat, Light;
+    margin: 0px;
+    position: relative;
+  } 
+
+/*
+  NO ME DA NI ENTIENDO DE ESTA MANERA}
+  */ 
+
+
+/* ejemplo react para el título del header */
+/* export const Title = styled.h1`
+  font: normal normal 300 40px/49px Montserrat, Light;
+  margin: 0px;
+  position: relative;
+  &::after {
+    content: "inn";
+    font: normal normal normal 80px Valentime;
+    position: absolute;
+    color: #fff;
+    top: -19px;
+  }
+  & a {
+    text-decoration: none;
+    color: #fff;
+  }
+`; */
+
